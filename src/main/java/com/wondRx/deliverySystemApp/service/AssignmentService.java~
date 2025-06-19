@@ -1,0 +1,4 @@
+package com.wondRx.deliverySystemApp.service;
+
+public class AssignmentService {
+}
